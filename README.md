@@ -1,0 +1,1 @@
+Simple WS server for testing purpose.
